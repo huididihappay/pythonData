@@ -1,0 +1,5 @@
+mysql:
+  username: root
+  # 如果密码中包含了特殊字符用转义字符替代. 比如@用%40替代. 纯数字的密码必须加引号.
+  password: "password"
+  hostname: localhost
